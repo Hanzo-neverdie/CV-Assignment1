@@ -1,6 +1,7 @@
 # CV-Assignment1
 
 ## Introduction
+
   This is an assignment of Computer Vision.The objective of this assignment is to use Google Colab, Jupyter Notebook, or any other suitable tool to detect text from images using OpenCV. This will help you understand the concepts of fundamental Computer Vision algorithms and techniques, evaluate the efficiency and effectiveness of computer vision systems, and apply and implement these tools and techniques. 
 
 * Setup Environment: <a href = "https://colab.research.google.com/">Google Colab platform</a>
@@ -21,8 +22,13 @@
   <a href = "https://github.com/Hanzo-neverdie/CV-Assignment1/blob/main/evaluation%20of%20my%20text%20detection%20system.docx">Evaluation document</a>
 
 ## Reference
+
   How to write README - https://www.youtube.com/watch?v=E6NO0rgFub4
-  EAST text detector <a href = "https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/"></a>
-  pytesseract and easyocr <a href = "https://www.youtube.com/watch?v=oyqNdcbKhew&t=554s"></a>
-  CV principles <a href = "https://docs.opencv.org/4.x/df/d54/tutorial_py_features_meaning.html"></a>
+  
+  EAST text detector - https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
+  
+  pytesseract and easyocr - https://www.youtube.com/watch?v=oyqNdcbKhew&t=554s
+  
+  CV principles - https://docs.opencv.org/4.x/df/d54/tutorial_py_features_meaning.html
+  
   Thanks to Google, getting lots of benefits from you!
