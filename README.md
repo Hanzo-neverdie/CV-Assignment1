@@ -12,6 +12,7 @@
 * Pre-process the Image:
   
   1.Convert the image to grayscale.
+  
   2.Apply necessary image processing techniques like thresholding, blurring, or edge detection to enhance text visibility.
   
 * Text Detection: using EAST text detector
