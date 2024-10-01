@@ -10,8 +10,10 @@
   <a href = "https://github.com/Hanzo-neverdie/CV-Assignment1/blob/main/image_2.jpg">image_2</a>
   <a href = "https://github.com/Hanzo-neverdie/CV-Assignment1/blob/main/image_3.jpg">image_3</a>
 * Pre-process the Image:
+  
   1.Convert the image to grayscale.
   2.Apply necessary image processing techniques like thresholding, blurring, or edge detection to enhance text visibility.
+  
 * Text Detection: using EAST text detector
 * Extract and Display Text: using tesseract
 * Efficiency and  Effectiveness Evaluation:
