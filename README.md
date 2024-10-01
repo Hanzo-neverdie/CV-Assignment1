@@ -18,7 +18,7 @@
   <a href = "https://github.com/Hanzo-neverdie/CV-Assignment1/blob/main/evaluation%20of%20my%20text%20detection%20system.docx">Evaluation document</a>
 
 ## Reference
-  How to write README <a href = "https://www.youtube.com/watch?v=E6NO0rgFub4"></a>
+  How to write README - https://www.youtube.com/watch?v=E6NO0rgFub4
   EAST text detector <a href = "https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/"></a>
   pytesseract and easyocr <a href = "https://www.youtube.com/watch?v=oyqNdcbKhew&t=554s"></a>
   CV principles <a href = "https://docs.opencv.org/4.x/df/d54/tutorial_py_features_meaning.html"></a>
