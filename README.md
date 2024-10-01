@@ -21,6 +21,12 @@
 * Efficiency and  Effectiveness Evaluation:
   <a href = "https://github.com/Hanzo-neverdie/CV-Assignment1/blob/main/evaluation%20of%20my%20text%20detection%20system.docx">Evaluation document</a>
 
+##Video Link
+
+  Welcome to my channel - https://www.youtube.com/@Bboji-v4j
+
+  Display the functions of the CV-Assignment1 - https://www.youtube.com/watch?v=1CaCwqwMJnI&list=PL36QUcbTbb1-ls2VV8BvOi4jx10t8tJGS
+
 ## Reference
 
   How to write README - https://www.youtube.com/watch?v=E6NO0rgFub4
