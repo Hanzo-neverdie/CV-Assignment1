@@ -25,7 +25,7 @@
 
   Welcome to my channel - https://www.youtube.com/@Bboji-v4j
 
-  Display the functions of the CV-Assignment1 - https://youtu.be/1CaCwqwMJnI?si=uRwU2sYk9f9ERA1d
+  Display the functions of the CV-Assignment1 - https://youtu.be/l5TDQ6WfgIM?si=F-T0gUjGo9LdArDI
 
 ## Reference
 
